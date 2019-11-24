@@ -14,4 +14,6 @@
 
 6 : Lê Đức Minh
 
-7 : Nguyễn Minh Hiếu
+7 : Nguyễn Minh Hiếu 17020746
+
+
