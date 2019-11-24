@@ -12,7 +12,7 @@
 
 5 : Lục Thị Thảo 17021023
 
-6 : Lê Đức Minh
+6 : Lê Đức Minh 17020893
 
 7 : Nguyễn Minh Hiếu 17020746
 
