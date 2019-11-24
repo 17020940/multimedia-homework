@@ -1,0 +1,15 @@
+from playsound import playsound
+while (True):
+    playsound('SineWave_261.63Hz.wav')
+    playsound('SineWave_277.18Hz.wav')
+    playsound('SineWave_293.66Hz.wav')
+    playsound('SineWave_311.13Hz.wav')
+    playsound('SineWave_329.63Hz.wav')
+    playsound('SineWave_349.23Hz.wav')
+    playsound('SineWave_369.99Hz.wav')
+    playsound('SineWave_392.0Hz.wav')
+    playsound('SineWave_415.3Hz.wav')
+    playsound('SineWave_440.0Hz.wav')
+    playsound('SineWave_466.16Hz.wav')
+    playsound('SineWave_493.88Hz.wav')
+    playsound('SineWave_523.25Hz.wav')
