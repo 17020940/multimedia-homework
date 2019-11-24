@@ -1,3 +1,5 @@
 Sửa dữ liệu trên biến h và n để test thêm
 
-S
+Số lượng số của h phải nhỏ hơn n  
+
+
